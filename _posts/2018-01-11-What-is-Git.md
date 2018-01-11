@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 ### Version Control System (keep reading and this will make sense towards the end).
 Let’s say you have a project you want to work on. 
@@ -20,5 +20,3 @@ This is where the **Git** magic comes.
 And a lot more...
 
 **I think now you have a decent idea of what Git is.**
-
-
