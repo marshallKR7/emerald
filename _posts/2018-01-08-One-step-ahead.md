@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 ---
 If you forked someone’s repository (forked, explained under terminology, scroll up) then follow these instructions
 [Fork A Repo - Github Help](https://help.github.com/articles/fork-a-repo) and then the commands below.
